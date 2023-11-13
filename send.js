@@ -5,7 +5,7 @@ const { data } = require('./events.json');
 
 const timeNow = moment();
 
-const DEFAULT_WEBHOOK_URL = 'https://discord.com/api/webhooks/739357743940370452/czfyoQ06AOsjmaD0hebUZnRQ6rBphmfG_Vs4ZPaRUnqNXtrLpnodRHoLaEidj2hteLCN';
+const DEFAULT_WEBHOOK_URL = '#';
 
 data.forEach((d) => {
     for (let i = 0; i < d.time.length; i++) {
