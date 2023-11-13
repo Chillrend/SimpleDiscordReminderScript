@@ -13,7 +13,7 @@
       ],
       "recurring": true,
       "visible": true,
-      "webhookUrl": "https://discord.com/api/webhooks/1173573947690852392/dnYSIlkPnVLgfWo8bEaGrYwln8f15U8fUB1fMkXJrPULPXdhOc_LrVuiLykUV8CsARcu"
+      "webhookUrl": "#"
     }
   ]
 }
