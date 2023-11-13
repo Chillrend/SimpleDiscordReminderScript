@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "eventName": "※ Pneuma ? Daily Reset ? ※",
+      "eventDesc": "The boys asked me to code this, whatever it only takes 5 minutes with GPT. \n\n Vertin best girl TRUEE :YEP:",
+      "bgUrl": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/07/Reverse-1999-AG-header.jpg",
+      "tagExist": true,
+      "tags": [
+        "534534747976892448"
+      ],
+      "time": [
+        "17.00"
+      ],
+      "recurring": true,
+      "visible": true,
+      "webhookUrl": "https://discord.com/api/webhooks/1173573947690852392/dnYSIlkPnVLgfWo8bEaGrYwln8f15U8fUB1fMkXJrPULPXdhOc_LrVuiLykUV8CsARcu"
+    }
+  ]
+}
